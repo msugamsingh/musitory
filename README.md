@@ -1,6 +1,14 @@
 # musitory
 
-Awesome music player with cool UI.
+Flutter music player (Beta) with amazing UI and animations.
+
+
+# Screenshots
+![screenshot](../master/docs/Screenshot_1591071132.png)
+
+
+
+![screenshot](../master/docs/Screenshot_1591071148.png)
 
 ## Getting Started
 
